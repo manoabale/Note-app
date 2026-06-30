@@ -38,4 +38,4 @@ No frameworks required.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/note-app.git
+git clone https://github.com/manoabale/note-app.git
